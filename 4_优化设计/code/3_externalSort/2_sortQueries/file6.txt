@@ -1,0 +1,3 @@
+search plum
+search kiwi
+search banana

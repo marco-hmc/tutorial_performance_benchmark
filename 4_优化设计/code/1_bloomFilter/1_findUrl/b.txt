@@ -1,0 +1,5 @@
+http://another.com/index
+http://example.com/page2
+http://site.com/contact
+http://site.com/about
+http://example.com/page4

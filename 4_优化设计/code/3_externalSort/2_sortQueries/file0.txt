@@ -1,0 +1,4 @@
+search apple
+search banana
+search apple
+search orange

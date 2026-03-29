@@ -1,0 +1,5 @@
+http://example.com/page1
+http://example.com/page2
+http://site.com/home
+http://site.com/about
+http://example.com/page3
